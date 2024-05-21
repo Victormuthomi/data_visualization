@@ -24,3 +24,7 @@ ax.ticklabel_format(style='plain')
 
 
 plt.show()
+
+plt.savefig('squares_plot.png', bbox_inches = 'tight')
+
+
