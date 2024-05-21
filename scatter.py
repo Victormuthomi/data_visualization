@@ -7,7 +7,7 @@ plt.style.use('seaborn-v0_8-dark')
 
 fig, ax = plt.subplots()
 
-ax.scatter(x_values, y_values, s=10)
+ax.scatter(x_values, y_values,c=y_values,cmap=plt.cm.Blues,  s=10)
 
 #set the title and axis labels
 ax.set_title("Square numbers", fontsize = 14)
