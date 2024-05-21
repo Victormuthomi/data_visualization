@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+input_values =[1, 4, 8, 15,25
 squares = [1, 4, 8, 16, 25]
 
 fig, ax = plt.subplots()
