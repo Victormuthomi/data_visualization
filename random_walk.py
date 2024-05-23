@@ -35,7 +35,5 @@ class RandomWalk:
            
 
 
-rw = RandomWalk()
-rw.fill_walk()
 
 
